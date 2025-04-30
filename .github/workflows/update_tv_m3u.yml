@@ -4,6 +4,9 @@ on:
   push:
     branches: [ main ]
 
+permissions:
+  contents: write
+
 jobs:
   update_tv_m3u:
     runs-on: ubuntu-latest
