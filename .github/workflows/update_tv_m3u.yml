@@ -2,7 +2,7 @@ name: Update TV.m3u
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main ] # Asegúrate de que sea la rama correcta
 
 jobs:
   update_tv_m3u:
