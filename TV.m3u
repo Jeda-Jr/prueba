@@ -3,17 +3,27 @@
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
 
+#EXTINF:-1 tvg-id="hispantv.com" tvg-logo="https://i.postimg.cc/MGpNNGs0/hispantv.png" group-title="News",Hispantv
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",Telesur
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 Latin America
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
-
-#EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="News",Globovision
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746163592/ei/KAMUaLvqBoSwzN0PzbCDwAY/ip/38.43.225.237/id/6b5FQqPHwsw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZdnrrnGdVigF79QuGi9lHnxgKC1L9HJOJDDs-0MRu6pNqkCXI3HtLyCc6X7QPX4vlbs3NFVeWV/spc/wk1kZq5OSmwcPIVsb_IJsDoNwintmk9NiWNWNgrbefVXUjP_j87m2OnOtkREnXdQ3rkTkZk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKIZgOkGJ4iHRUStno7RDqCnLvr1gPcsME20NgUoHD0xAiBNtvKBGm9NcnNzOkm3sjmR1vXpL9l0z3m3W566z1cgVA%3D%3D/file/index.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="canal11delzulia.ve" tvg-logo="https://i.imgur.com/puM9ASa.png" group-title="Regional",Canal 11
 https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
 
-#EXTINF:-1 tvg-id="Chavo.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1920px-El_Chavo_%28simple_logo%29.svg.png" group-title="Comedia",El Chavo 24/7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746163743/ei/vwMUaMeiNcmbzN0Pk4eC8AM/ip/38.43.225.237/id/hct5qjC_n9M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZxiRRyY6tcjNZpv87c0yySW_XrLVS3L7fvH2m4cRY5LUKLzaSZXJVDhLdeTHY8cSJgnmsyOLE3/spc/wk1kZgNYVIirAfFOTbVR8ctQ4gM6wu1Aq6Kisc97-CL42tf4lP3NJrBR_bRbAOalkyw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgGQbRxjUVJ8fKTMW8XW0XJAA52pmAz3zxmvsOfu-yZX8CIQCSqeVt0uNcPUcDJ-OFiauHlCzwqs86yCDl7bJQeDTlTA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="venevision.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/512px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="Regional",Venevisión
+https://venevision-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="vtv.gob.ve" tvg-logo="https://i.imgur.com/FeRTDqz.png" group-title="News",Venezolana de Television
+https://live.eu-north-1b.cf.dmcdn.net/sec2(vO3Shlg2oqiWUR-h6F_v0-HxO4mydYr20AQRaxWLDeEj0rrSjynTTXbSvV0Ex7MG0sLvHfH_pCfPpDy_CYZEixnHcu_2HFhbUcZvzl_ccKy3AoANafRVj8d43QzJoaEq)/dm/3/x930kre/d/live-1080.m3u8
+
+#EXTINF:-1 tvg-id="CanalI.ve" tvg-logo="https://i.imgur.com/vKfOavW.png" group-title="Regional",Canal I
+https://canaliliv-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo-Globovisi%C3%B3n.png" group-title="News",Globovision
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1757742180/ei/BLDEaLzbFev5ut0Pif2k8AE/ip/38.43.225.237/id/rpRfcw2Wafo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLP5eTW1EVtQNncVqWKEKVZcKwGlvmBxK1BfCvYc75tluHJBOaQSYKzq4gx605W23tA6j1TgRXKU/spc/l3OVKdX38cNQ_yK5uokxCVuXDt8CvB5fD4rI3_4R8mwWBJfLpToQrJ7l3VfsBhlK57o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMSwM0ze0F19WtM5dcdDPQLkp9VbcpzUzHqwatuRzlptAiEAiixW1F5JNIYHe3Wia_AUZ--zZ2LiwrlVlWw2aY9Ghg0%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 Latin America
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+
