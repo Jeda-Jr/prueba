@@ -16,7 +16,7 @@ https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
 https://venevision-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="vtv.gob.ve" tvg-logo="https://i.imgur.com/FeRTDqz.png" group-title="News",Venezolana de Television
-https://live.eu-north-1b.cf.dmcdn.net/sec2(vO3Shlg2oqiWUR-h6F_v0-HxO4mydYr20AQRaxWLDeEj0rrSjynTTXbSvV0Ex7MG0sLvHfH_pCfPpDy_CYZEixnHcu_2HFhbUcZvzl_ccKy3AoANafRVj8d43QzJoaEq)/dm/3/x930kre/d/live-1080.m3u8
+https://www.dailymotion.com/cdn/live/video/x930kre.m3u8?sec=jTpb760RD0ALtA1j_Q0Pg9etBWiA7SdIjXz4Eiot8uCHAgDKwNwMlbLSiNeNq6MsMuw4Mj2g2JiLvq80TKsaBQ&dmTs=425763&dmV1st=8b329880-8155-411c-a3de-5abf77f3a65f
 
 #EXTINF:-1 tvg-id="CanalI.ve" tvg-logo="https://i.imgur.com/vKfOavW.png" group-title="Regional",Canal I
 https://canaliliv-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
